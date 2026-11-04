@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f8fafc;
+  margin: 0;
+  padding: 24px;
+  color: #0f172a;
+}
+
+.pagina {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.explicacao {
+  margin-bottom: 20px;
+}
+
+.comparador {
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+}
+
+.caixa-a {
+  box-sizing: content-box;
+  width: 250px;
+  height: 50px;
+  background: #dbeafe;
+  border: 1px solid #1e40af;
+}
+
+.caixa-b {
+  box-sizing: content-box;
+  width: 250px;
+  height: 50px;
+  padding: 0 50px;
+  background: #dcfce7;
+  border: 1px solid #166534;
+}

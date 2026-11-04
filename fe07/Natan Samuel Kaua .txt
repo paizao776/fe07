@@ -1,0 +1,20 @@
+RELATÓRIO — DESAFIOS DE BOX MODEL (TEMA 07)
+Aluno(a): ______________________________
+Turma: ________  Data: ____/____/______
+
+--- STATUS DOS DESAFIOS ---
+Desafio 1 — Caixa que cresce 40px: CONCLUÍDO
+Desafio 2 — Caixa que NÃO cresce: CONCLUÍDO
+Desafio 3 — Duas caixas alinhadas: CONCLUÍDO
+Desafio 4 — Cartão com margem externa: CONCLUÍDO
+Desafio 5 — Os dois modos no mesmo arquivo: CONCLUÍDO
+
+Total concluído: 5 de 5
+
+--- ENTREGAS ---
+Para cada desafio concluído, anexe:
+- Arquivo .html + .css correspondente
+- Print do DevTools mostrando a largura renderizada
+
+Link do repositório / pasta compartilhada:
+_______________________________________________
